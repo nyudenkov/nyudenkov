@@ -4,6 +4,7 @@
 - 🛰 I'm currently working in [Relliable Communications](https://relcom.org/)
 - 🤖 Most of the time I'm writing on Python. Sometimes Rust.
 - ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
+- 🎶 You can also check out my musical taste on [LastFM](https://last.fm/user/fmajesty)
 
 ### 🛠 Some fancy badges
 
