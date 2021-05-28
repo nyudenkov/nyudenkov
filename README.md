@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ʀu I live in Kaliningrad, Russia
-- 🛰 I'm currently working in [Reliable Communications](https://relcom.org/)
+- 🛰 Not working anywhere at the moment and open to job offers
 - 🤖 Most of the time I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
 - 🎶 You can also check out my musical taste on [LastFM](https://last.fm/user/fmajesty) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
