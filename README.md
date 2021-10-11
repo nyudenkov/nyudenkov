@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ʀu I live in Saint-Petersburg, Russia
+- ʀu I live in Saint Petersburg, Russia
 - 🛰 Working at [MTrading](https://mtrading.com/) now
 - 🤖 Most of the time I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
