@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ʀu I live in Saint Petersburg, Russia
+- ʀu I live in Kaliningrad, Russia
 - 🛰 Not working anywhere at the moment and open to job offers
 - 🤖 Most of the time I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
