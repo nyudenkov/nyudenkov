@@ -4,7 +4,7 @@
 - 🛰 Not working anywhere currently and open to job offers
 - 🤖 Generally I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
-- 🎶 You can also check out my musical taste on [LastFM](https://last.fm/user/fmajesty) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
+- 🎶 You can as well check out my musical taste on [LastFM](https://last.fm/user/fmajesty) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
 - ❗️ Also! Do you have a problem with just forgetting to read the articles you've saved links to, like me? I've created a bot to solve this problem. [Here's repo](https://github.com/FMajesty/link-kicker)
 
 ### 🛠 Some fancy badges
