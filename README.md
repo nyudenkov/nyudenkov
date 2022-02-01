@@ -14,4 +14,4 @@
 
 ### 🤝 Connect with me
 
-[![nyudenkov@fmajesty.xyz](https://img.shields.io/badge/nyudenkov@fmajesty.xyz%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:nyudenkov@fmakesty.xyz) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-yudenkov/)
+[![nyudenkov@fmajesty.xyz](https://img.shields.io/badge/nyudenkov@fmajesty.xyz%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:nyudenkov@fmajesty.xyz) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-yudenkov/)
