@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ʀu I live in Saint-Petersburg, Russia
-- 🛰 Not working anywhere currently and open to job offers
+- 🛰 Working at [SKIPP](https://skipp.dev/) now
 - 🤖 Generally I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
 - 🎶 You can as well check out my musical taste on [LastFM](https://last.fm/user/fmajesty) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
