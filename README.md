@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ʀu I live in Tbilisi, Georgia
+- 🇬🇪 I live in Tbilisi, Georgia. Originally from Russia.
 - 🛰 Working at [SKIPP](https://skipp.dev/) now
 - 🤖 Generally I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
