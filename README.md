@@ -3,10 +3,10 @@
 - 🇬🇪 I live in Tbilisi, Georgia. Originally from Russia.
 - 🛰 Working at [SKIPP](https://skipp.dev/) now
 - 🤖 Generally I'm writing on Python. Sometimes Rust
-- ✉️ You can shoot me an email at [nyudenkov@fmajesty.xyz](mailto:nyudenkov@fmajesty.xyz)
+- ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
 - 🎶 You can as well check out my musical taste on [LastFM](https://last.fm/user/fmajesty) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
-- ❗️ Also! Do you have a problem with just forgetting to read the articles you've saved links to, like me? I've created a bot to solve this problem. [Here's repo](https://github.com/FMajesty/link-kicker)
-- 💼 [CV](https://github.com/FMajesty/fmajesty/blob/master/Resume%20Yudenkov%20Nikita.pdf)
+- ❗️ Also! Do you have a problem with just forgetting to read the articles you've saved links to, like me? I've created a bot to solve this problem. [Here's repo](https://github.com/nyudenkov/link-kicker)
+- 💼 [CV](https://github.com/nyudenkov/nyudenkov/blob/master/Resume%20Yudenkov%20Nikita.pdf)
 
 ### 🛠 Some fancy badges
 
@@ -15,4 +15,4 @@
 
 ### 🤝 Connect with me
 
-[![nyudenkov@fmajesty.xyz](https://img.shields.io/badge/nyudenkov@fmajesty.xyz%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:nyudenkov@fmajesty.xyz) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-yudenkov/)
+[![fmajesty@pm.me](https://img.shields.io/badge/fmajesty@pm.me%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:fmajesty@pm.me) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-yudenkov/)
