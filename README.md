@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🇬🇪 I live in Tbilisi, Georgia. Originally from Russia.
-- 🛰 Working at [SKIPP](https://skipp.dev/) now and open to job offers
+- 🇦🇲 I live in Yerevan, Armenia. Originally from Russia.
+- 🛰 Working at [evvve](https://evvve.net/) now
 - 🤖 Generally I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
 - 🎶 You can as well check out my musical taste on [LastFM](https://last.fm/user/fmajesty) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
