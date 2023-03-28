@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🇦🇲 I live in Yerevan, Armenia. Originally from Russia.
+- 🇦🇲 I live in Gyumru, Armenia. Originally from Russia.
 - 🛰 Working at [evvve](https://evvve.net/) now
 - 🤖 Generally I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
