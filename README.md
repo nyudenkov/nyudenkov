@@ -5,7 +5,6 @@
 - 🤖 Generally I'm writing on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
 - 🎶 You can as well check out my musical taste on [LastFM](https://last.fm/user/fmajesty) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
-- 💼 [CV](https://github.com/nyudenkov/nyudenkov/blob/master/Resume%20Yudenkov%20Nikita.pdf)
 
 ### 🛠 Some fancy badges
 
