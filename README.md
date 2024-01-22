@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🇷🇸 I live in Novi Sad, Serbia. Originally from Russia.
-- 🛰 Open for job offers
+- 💼 Open for job offers
 - 🤖 Generally, I write on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
 - 🎶 You can also check out my musical taste on [LastFM](https://last.fm/user/nyudenkov) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
