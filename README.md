@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 - 🇷🇸 I live in Novi Sad, Serbia. Originally from Russia.
-- 🛰 Working at [evvve](https://evvve.net/) now
-- 🤖 Generally I'm writing on Python. Sometimes Rust
+- 🛰 Open for job offers
+- 🤖 Generally, I write on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
-- 🎶 You can as well check out my musical taste on [LastFM](https://last.fm/user/nyudenkov) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
+- 🎶 You can also check out my musical taste on [LastFM](https://last.fm/user/nyudenkov) and [RateYourMusic](https://rateyourmusic.com/~fmajesty)
 
 ### 🛠 Some fancy badges
 
