@@ -5,8 +5,8 @@
 - 📄 My CV [[click]](https://github.com/nyudenkov/nyudenkov/blob/master/Nikita%20Yudenkov%20CV.pdf)
 - 🤖 Generally, I write on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
-- 🎶 You can also check out my musical taste on [LastFM](https://short.nyudenkov.space/public/lastfm) and [RateYourMusic](https://short.nyudenkov.space/public/rym)
-- 📺 I publish my videos shot on a drone on [Youtube](https://short.nyudenkov.space/public/yt)
+- 🎶 You can also check out my musical taste on [LastFM](https://short.nyudenkov.space/lastfm) and [RateYourMusic](https://short.nyudenkov.space/rym)
+- 📺 I publish my videos shot on a drone on [Youtube](https://short.nyudenkov.space/yt)
 
 ### 🛠 Some fancy badges
 
