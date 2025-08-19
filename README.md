@@ -4,9 +4,9 @@
 - 💼 Actively looking for a new job
 - 📄 My CV [[click]](https://github.com/nyudenkov/nyudenkov/blob/master/Nikita%20Yudenkov%20CV.pdf)
 - 🤖 Generally, I write on Python. Sometimes Rust
-- ✉️ You can shoot me an email at [fmajesty@pm.me](mailto:fmajesty@pm.me)
-- 🎶 You can also check out my musical taste on [LastFM](https://short.nyudenkov.space/lastfm) and [RateYourMusic](https://short.nyudenkov.space/rym)
-- 📺 I publish my videos shot on a drone on [Youtube](https://short.nyudenkov.space/yt)
+- ✉️ You can shoot me an email at [nikita@pysentry.com](mailto:nikita@pysentry.com)
+- 🎶 You can also check out my musical taste on [LastFM](https://www.last.fm/user/nyudenkov)
+- 📺 I publish my videos shot on a drone on [Youtube](https://www.youtube.com/@nyudenkov)
 
 ### 🛠 Some fancy badges
 
@@ -15,4 +15,4 @@
 
 ### 🤝 Connect with me
 
-[![fmajesty@pm.me](https://img.shields.io/badge/fmajesty@pm.me%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:fmajesty@pm.me) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyudenkov/)
+[![nikita@pysentry.com](https://img.shields.io/badge/nikita@pysentry.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:nikita@pysentry.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyudenkov/)
