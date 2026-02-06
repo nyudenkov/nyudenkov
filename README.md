@@ -2,7 +2,7 @@
 
 - 🇷🇸 I live in Novi Sad, Serbia. Originally from Russia.
 - 💼 Actively looking for a new job
-- 📄 My CV [[click]](https://github.com/nyudenkov/nyudenkov/blob/master/Nikita%20Yudenkov%20CV.pdf)
+- 📄 My CV [[click]](https://github.com/nyudenkov/nyudenkov/blob/master/Nikita%20Iudenkov%20CV.pdf)
 - 🤖 Generally, I write on Python. Sometimes Rust
 - ✉️ You can shoot me an email at [nikita@pysentry.com](mailto:nikita@pysentry.com)
 - 🎶 You can also check out my musical taste on [LastFM](https://www.last.fm/user/nyudenkov)
