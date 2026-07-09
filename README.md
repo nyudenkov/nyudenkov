@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Nikita — senior backend engineer, 7+ years.
+I'm Nikita - senior backend engineer, 7+ years.
 
 Based in Novi Sad, Serbia. Originally from Russia, not planning to go back.
 
